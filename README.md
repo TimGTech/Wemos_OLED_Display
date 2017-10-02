@@ -5,3 +5,5 @@ There is probably some of the code and/or function of this code that can be elim
 This is open source code so feel free to change, use, and redistribute as you like.
 
 Enjoy :)
+
+All Your LAN Are Belong To Us  -I+++++
